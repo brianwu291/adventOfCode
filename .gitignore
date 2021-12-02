@@ -1,0 +1,5 @@
+/node_modules
+dev.js
+/.vscode
+.DS_Store
+.snyk
